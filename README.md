@@ -5,7 +5,6 @@
 <p align="center">
   🚀 Passionate about <strong>AI, Robotics, and Automation</strong><br>
   💡 I love solving real-world problems with code and building intelligent systems that create value.<br>
-  🌍 My goal is to grow financially, spiritually, and technically — to achieve freedom and take care of those I love.
 </p>
 
 ###
@@ -36,32 +35,30 @@
 
 <h2 align="left">⚙️ What I'm Working On</h2>
 
-- 🤖 Building **AI & robotics projects** — from automated sorting systems to facial recognition security.  
-- 🧩 Learning advanced **machine learning, computer vision, and web development**.  
-- 💻 Creating useful, real-world tools that help others and generate income.  
-- 🌱 Continuously improving — one project, one breakthrough at a time.
+- Building **AI & robotics projects**: from automated sorting systems to facial recognition security.  
+- Learning advanced **machine learning, computer vision, and web development**.  
+- Creating useful, real-world tools that help others and generate income.  
+- Continuously improving: one project, one breakthrough at a time.
 
 ###
 
 <h2 align="left">📈 My Vision</h2>
 
-> “To be great — financially, spiritually, and technically — so I can create, inspire, and live freely.”
-
 I believe in consistency, resilience, and purpose-driven learning.  
-Every project I build brings me closer to that version of myself — the one who creates impact through innovation and automation.
+Every project I build brings me closer to that version of myself, the one who creates impact through innovation and automation.
 
 ###
 
 <h2 align="left">📫 Connect With Me</h2>
 
 <div align="left">
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/OsokoyaF" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/fiyinfoluwa-osokoya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:fiyin@example.com">
+  <a href="mailto:osokoyafiyinfoluwa@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
