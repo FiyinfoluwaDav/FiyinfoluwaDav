@@ -68,8 +68,8 @@ Every project I build brings me closer to that version of myself, the one who cr
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FiyinfoluwaDav1&theme=tokyonight" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FiyinfoluwaDav1&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FiyinfoluwaDav&theme=tokyonight" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FiyinfoluwaDav&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
 </div>
 
 ###
