@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  🚀 Passionate about <strong>AI, Robotics, and Automation</strong><br>
+  🚀 Passionate about <strong>Computer vision, Software development, and Automation</strong><br>
   💡 I love solving real-world problems with code and building intelligent systems that create value.<br>
 </p>
 
