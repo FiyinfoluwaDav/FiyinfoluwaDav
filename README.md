@@ -1,77 +1,53 @@
-<h1 align="center">Hey 👋 I'm Fiyinfoluwa</h1>
+<h2 align="left">I'm Fiyinfoluwa</h2>
 
 ###
 
-<p align="center">
-  🚀 Passionate about <strong>Computer vision, Software development, and Automation</strong><br>
-  💡 I love solving real-world problems with code and building intelligent systems that create value.<br>
-</p>
+<p align="left">Frontend engineer obsessed with scaling frontend architecture and systems.</p>
 
 ###
 
-<h2 align="left">🧠 Tech Stack</h2>
+<h3 align="left">Tech Stack</h3>
+
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
 ###
 
-<h2 align="left">⚙️ What I'm Working On</h2>
-
-- Building **AI & robotics projects**: from automated sorting systems to facial recognition security.  
-- Learning advanced **machine learning, computer vision, and web development**.  
-- Creating useful, real-world tools that help others and generate income.  
-- Continuously improving: one project, one breakthrough at a time.
+<h3 align="left">Expertise</h3>
 
 ###
 
-<h2 align="left">📈 My Vision</h2>
-
-I believe in consistency, resilience, and purpose-driven learning.  
-Every project I build brings me closer to that version of myself, the one who creates impact through innovation and automation.
+<p align="left">Specialized in crafting high-performance frontend systems for complex, large-scale applications. <br> <br>Focus: modern architecture patterns, performance optimization at scale, type-safe codebases, and efficient rendering strategies.</p>
 
 ###
 
-<h2 align="left">📫 Connect With Me</h2>
-
-<div align="left">
-  <a href="https://x.com/OsokoyaF" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/fiyinfoluwa-osokoya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:osokoyafiyinfoluwa@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="email logo" />
-  </a>
-</div>
+<h3 align="left">Connect</h3>
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<p align="left">Open to discussions on frontend architecture, scaling patterns, performance deep-dives, or collaboration on serious projects.</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FiyinfoluwaDav/FiyinfoluwaDav/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FiyinfoluwaDav&theme=tokyonight" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FiyinfoluwaDav&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FiyinfoluwaDav.FiyinfoluwaDav&"  />
 </div>
 
 ###
-
-<p align="center">⚡ Keep learning. Keep building. Keep evolving. ⚡</p>
