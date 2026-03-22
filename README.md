@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend engineer obsessed with scaling frontend architecture and systems. Building <a href="https://orizenlabs.space">orizenlabs</a></p>
+<p align="left">Frontend engineer obsessed with scaling frontend architecture and systems. Building <a href="https://orizenlabs.space">Orizen AI Labs</a></p>
 
 ###
 
