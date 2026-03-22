@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend engineer obsessed with scaling frontend architecture and systems.</p>
+<p align="left">Frontend engineer obsessed with scaling frontend architecture and systems. Building orizenlabs.space</p>
 
 ###
 
