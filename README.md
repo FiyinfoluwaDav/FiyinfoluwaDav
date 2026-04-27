@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend engineer obsessed with scaling frontend architecture and systems. Building <a href="https://orizenlabs.space">Orizen AI Labs</a></p>
+<p align="left">Software engineer and researcher obsessed with scaling  neural architecture and systems. 
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Specialized in crafting high-performance frontend systems for complex, large-scale applications. <br> <br>Focus: modern architecture patterns, performance optimization at scale, type-safe codebases, and efficient rendering strategies.</p>
+<p align="left">Specialized in crafting high-performance software systems for complex, large-scale applications. <br> <br>Focus: modern architecture patterns, performance optimization at scale, type-safe codebases, and efficient rendering strategies.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Open to discussions on frontend architecture, scaling patterns, performance deep-dives, or collaboration on serious projects.</p>
+<p align="left">Open to discussions on software architecture, scaling patterns, performance deep-dives, or collaboration on serious projects.</p>
 
 ###
 
