@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Software engineer and researcher obsessed with scaling  neural architecture and systems. 
-
-###
+<p align="left">
+Frontend engineer focused on building scalable, high-performance web applications and seamless user experiences with modern React ecosystems.
+</p>
 
 ###
 
@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">Specialized in crafting high-performance software systems for complex, large-scale applications. <br> <br>Focus: modern architecture patterns, performance optimization at scale, type-safe codebases, and efficient rendering strategies.</p>
+<p align="left">
+Specialized in crafting fast, scalable, and type-safe frontend systems for modern web applications.
+<br><br>
+Focus: React architecture, performance optimization, design systems, accessibility, state management, and scalable frontend engineering with TypeScript and modern frameworks.
+</p>
 
 ###
 
@@ -20,7 +24,9 @@
 
 ###
 
-<p align="left">Open to discussions on software architecture, scaling patterns, performance deep-dives, or collaboration on serious projects.</p>
+<p align="left">
+Open to discussions on frontend architecture, performance optimization, React ecosystems, UI engineering, or collaboration on ambitious products.
+</p>
 
 ###
 
