@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Frontend engineer focused on building scalable, high-performance web applications and seamless user experiences with modern React ecosystems.
+Software engineer focused on building scalable, high-performance web applications and seamless user experiences with modern React ecosystems.
 </p>
 
 ###
